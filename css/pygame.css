@@ -64,3 +64,9 @@ canvas {
     right: 0;
     bottom: 0;
 }
+
+#buffer {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
